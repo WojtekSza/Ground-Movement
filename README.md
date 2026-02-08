@@ -2,6 +2,8 @@
 ```
 python -m venv .venv
 .venv\Scripts\activate
+pip install jupyter
+pip install sentinelsat
 pip install GDAL
 ```
 
